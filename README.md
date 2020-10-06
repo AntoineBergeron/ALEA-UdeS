@@ -1,2 +1,3 @@
-# ALEA-UdeS
-Capsules d'atelier sur R
+# Capsules d'atelier sur R
+
+Présentateur: Antoine Bergeron
